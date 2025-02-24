@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Bitter-Black.ttf",
+      "sha1": "1122ce7006530c66219acebbf3efa9d20eb3d303"
+    },
+    {
+      "path": "assets/fonts/Bitter-BlackItalic.ttf",
+      "sha1": "8ecfe97dffb3f4a432341d52430a0e26a85f544f"
+    },
+    {
+      "path": "assets/fonts/Bitter-Bold.ttf",
+      "sha1": "937f3765114583e0c132d4d4001ee6c29a6548df"
+    },
+    {
+      "path": "assets/fonts/Bitter-BoldItalic.ttf",
+      "sha1": "fa2c9fe4ffde5cdd92878fe5d29052a8765c4fbf"
+    },
+    {
+      "path": "assets/fonts/Bitter-ExtraBold.ttf",
+      "sha1": "b4785dc73b9291c4fbdd8ca7e19bc4f8124d92f9"
+    },
+    {
+      "path": "assets/fonts/Bitter-ExtraBoldItalic.ttf",
+      "sha1": "93fad3244c24c51087001c87a3a65f3c34846fa7"
+    },
+    {
+      "path": "assets/fonts/Bitter-ExtraLight.ttf",
+      "sha1": "c2fb99404109e21c50c4ab936f340d2379eab5e0"
+    },
+    {
+      "path": "assets/fonts/Bitter-ExtraLightItalic.ttf",
+      "sha1": "f3f8090f3334a6f312732b8814530b5d1b33e745"
+    },
+    {
+      "path": "assets/fonts/Bitter-Italic.ttf",
+      "sha1": "3c3b1314df24b0fe3a7cf23f6d31c339f46b2db7"
+    },
+    {
+      "path": "assets/fonts/Bitter-Light.ttf",
+      "sha1": "be8111443d5468edd6abf08d7a7f3e743ea3b978"
+    },
+    {
+      "path": "assets/fonts/Bitter-LightItalic.ttf",
+      "sha1": "acb6af45d6ce7cf50a56441e6df92b7736c270ea"
+    },
+    {
+      "path": "assets/fonts/Bitter-Medium.ttf",
+      "sha1": "6f457001f28da0d8a263088f7ebbfd249ca5294b"
+    },
+    {
+      "path": "assets/fonts/Bitter-MediumItalic.ttf",
+      "sha1": "10484e86c3b689a0b3184ddd8dacdad3d39100dc"
+    },
+    {
+      "path": "assets/fonts/Bitter-Regular.ttf",
+      "sha1": "e39e7f97e5fb137e08ce1addb79b56a2e3ce6eeb"
+    },
+    {
+      "path": "assets/fonts/Bitter-SemiBold.ttf",
+      "sha1": "f8f79313de41f3d42de3c00c50fced0bd7467784"
+    },
+    {
+      "path": "assets/fonts/Bitter-SemiBoldItalic.ttf",
+      "sha1": "3fc127220fa8a085b550ef8f7c268a5b9e40ae8b"
+    },
+    {
+      "path": "assets/fonts/Bitter-Thin.ttf",
+      "sha1": "6f05eb9b2c9d8522bc4aef76276f8294bd9befff"
+    },
+    {
+      "path": "assets/fonts/Bitter-ThinItalic.ttf",
+      "sha1": "06d75f60b5e05448925cb0a855fb9bd42d64d16b"
+    }
+  ]
+}
